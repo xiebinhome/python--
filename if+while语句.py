@@ -5,6 +5,8 @@ while test != ("1"):
   test = input ("请输入“1”:  ")
   if test == ("1"):
     print("对")
-    print("测试结束")
+    break 
   else:
     print ("不对")
+print("测试结束")
+   
