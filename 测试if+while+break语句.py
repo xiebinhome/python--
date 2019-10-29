@@ -1,4 +1,4 @@
-print ("测试if while语句")
+print ("测试if + while + break语句")
 test = input ("请输入“1”:  ")
 print (test)
 while test != ("1"):
